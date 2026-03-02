@@ -14,4 +14,4 @@ I specialize in Digital Trial Solutions, configuration management, and building 
 * **AI & Data:** Local LLM inference (Ollama), Playwright, JSON API integration
 
 ## 📫 How to reach me
-* [Connect with me on LinkedIn](YOUR_LINKEDIN_URL)
+* [[Connect with me on LinkedIn]](https://www.linkedin.com/in/petrovvski/)
