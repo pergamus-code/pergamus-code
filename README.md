@@ -1,6 +1,6 @@
 # Hi there, I'm Petrovvski 👋
 
-### Senior Configuration Engineer & Business Analyst
+### Configuration and Integration Engineer, Data-Driven Problem Solver 
 
 I specialize in Digital Trial Solutions, configuration management, and building robust, local-first data pipelines. I am passionate about bridging the gap between complex system architecture and secure, efficient user experiences.
 
