@@ -1,16 +1,17 @@
-## Hi there 👋
+# Hi there, I'm Petrovvski 👋
 
-<!--
-**pergamus-code/pergamus-code** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### Senior Configuration Engineer & Business Analyst
 
-Here are some ideas to get you started:
+I specialize in Digital Trial Solutions, configuration management, and building robust, local-first data pipelines. I am passionate about bridging the gap between complex system architecture and secure, efficient user experiences.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🚀 Featured Project
+* **[News Lab](https://github.com/pergamus-code/news-lab):** A local AI-powered intelligence tool that scrapes and summarizes news on the fly. Built with Python, Streamlit, and local LLMs (Qwen 2.5 via Ollama) to guarantee 100% data privacy.
+
+## 🛠️ Technical Arsenal
+* **Languages & Scripting:** Python, Bash, PowerShell
+* **Infrastructure & Config:** Docker, macOS/Windows environments
+* **Methodology:** Agile/Scrum (2+ years hands-on)
+* **AI & Data:** Local LLM inference (Ollama), Playwright, JSON API integration
+
+## 📫 How to reach me
+* [Connect with me on LinkedIn](YOUR_LINKEDIN_URL)
